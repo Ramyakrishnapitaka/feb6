@@ -1,0 +1,29 @@
+.log{
+    color: black;
+}
+.col{
+    color: red;
+}
+.col1{
+    color: green;
+}
+#uni{
+    position: relative;
+    left: 40px;
+    top: 200px;
+    text-align: justify;
+    color: darkblue;
+}
+#get{
+    position: relative;
+    left: 350px;
+    top: 300px;
+    height: 30px;
+    width: 170px;
+    background-color: green;
+    color: black;
+    border-radius: 25%;
+}
+#get:hover{
+    background-color: yellow;
+}
